@@ -1,0 +1,23 @@
+[
+  {
+    "order_id": 1001,
+    "order_date": "2026-04-05",
+    "customer_name": "Diogo Busto",
+    "total_amount": 150.50,
+    "status": "ENTREGUE",
+    "items": [
+      {"product": "Mouse Gamer", "price": 50.50},
+      {"product": "Teclado Mecânico", "price": 100.00}
+    ]
+  },
+  {
+    "order_id": 1002,
+    "order_date": "2026-04-05",
+    "customer_name": "Kamila",
+    "total_amount": 2500.00,
+    "status": "PROCESSANDO",
+    "items": [
+      {"product": "Notebook Dell", "price": 2500.00}
+    ]
+  }
+]
